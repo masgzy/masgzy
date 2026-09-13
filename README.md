@@ -39,6 +39,8 @@ class Masgzy:
 
 ## 🛠️ 技术栈
 
+(大概率是AI的?)
+
 <!-- shields.io 直出，加/删徽章：复制一行改文字和 logo 名（logo 速查见《组件替换菜单.md》） -->
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
