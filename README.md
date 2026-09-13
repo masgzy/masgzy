@@ -39,7 +39,7 @@ class Masgzy:
 
 ## 🛠️ 技术栈
 
-(大概率是AI的?)
+(大概率是Vibe coding用的技术栈?)
 
 <!-- shields.io 直出，加/删徽章：复制一行改文字和 logo 名（logo 速查见《组件替换菜单.md》） -->
 <p align="center">
@@ -73,12 +73,12 @@ class Masgzy:
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS-663399?style=flat-square" alt="CSS" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square" alt="Go" />
-  <img src="https://img.shields.io/badge/C-555555?style=flat-square" alt="C" />
-</p>
+  <!-- <img src="https://img.shields.io/badge/C-555555?style=flat-square" alt="C" />
+</p> -->
 
 ## 🐍 贪吃蛇 · 贡献格子的天敌
 
-<!-- 首次显示裂图属正常：先去 Actions 手动跑一次工作流，见《部署指南.md》第 4 步 -->
+<!-- 首次显示裂图属正常 -->
 <picture>
   <source media="(prefers-color-scheme: dark)"
           srcset="https://raw.githubusercontent.com/masgzy/masgzy/output/github-contribution-grid-snake-dark.svg" />
@@ -88,8 +88,7 @@ class Masgzy:
 
 ## 📮 联系我
 
-<!-- 📝 博客 masgzy.github.io 重构完成后保留徽章即可；
-     若想等重构完再挂出来，直接删除下面 Blog 的 <a>...</a> 整块 -->
+<!-- 📝 博客等重构完再挂出来 -->
 <p align="center">
   <a href="mailto:gomodtidy@outlook.com">
     <img src="https://img.shields.io/badge/%E9%82%AE%E7%AE%B1-gomodtidy%40outlook.com-brightgreen?style=flat-square&logo=minutemailer&logoColor=white" alt="邮箱" />
